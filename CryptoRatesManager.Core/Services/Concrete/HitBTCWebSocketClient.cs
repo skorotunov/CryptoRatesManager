@@ -1,7 +1,6 @@
 ﻿using CryptoRatesManager.Core.Models;
 using CryptoRatesManager.Core.Services.Abstract;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using WebSocketSharp;
 
 namespace CryptoRatesManager.Core.Services.Concrete
